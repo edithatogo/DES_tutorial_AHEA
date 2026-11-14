@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+message: Please cite the original tutorial article using the preferred-citation metadata.
+  If you use this fork, also identify its repository and the commit or release used.
+title: 'Discrete Event Simulation in R using the Simmer Package for Health Economic
+  Modelling: A Tutorial and Illustration in Colon Cancer'
+authors:
+- family-names: Degeling
+  given-names: Koen
+- family-names: Karnon
+  given-names: Jonathan
+- family-names: van de Ven
+  given-names: Michiel
+- family-names: Brennan
+  given-names: Alan
+- family-names: Koffijberg
+  given-names: Hendrik
+repository-code: https://github.com/edithatogo/DES_tutorial_AHEA
+url: https://github.com/edithatogo/DES_tutorial_AHEA
+references:
+- type: software
+  title: 'Discrete Event Simulation in R using the Simmer Package for Health Economic
+    Modelling: A Tutorial and Illustration in Colon Cancer'
+  authors:
+  - family-names: Degeling
+    given-names: Koen
+  - family-names: Karnon
+    given-names: Jonathan
+  - family-names: van de Ven
+    given-names: Michiel
+  - family-names: Brennan
+    given-names: Alan
+  - family-names: Koffijberg
+    given-names: Hendrik
+  repository-code: https://github.com/koendegeling/DES_tutorial_AHEA
+  url: https://github.com/koendegeling/DES_tutorial_AHEA
+preferred-citation:
+  type: article
+  title: 'Discrete Event Simulation in R using the ‘Simmer’ Package for Health Economic
+    Modelling: A Tutorial and Illustration in Colon Cancer'
+  authors:
+  - family-names: Degeling
+    given-names: Koen
+  - family-names: Karnon
+    given-names: Jonathan
+  - family-names: van de Ven
+    given-names: Michiel
+  - family-names: Brennan
+    given-names: Alan
+  - family-names: Koffijberg
+    given-names: Hendrik
+  journal: Applied Health Economics and Health Policy
+  year: 2025
+  volume: 23
+  start: 961
+  end: 975
+  doi: 10.1007/s40258-025-00983-8
